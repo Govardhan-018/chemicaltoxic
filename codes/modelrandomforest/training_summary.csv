@@ -1,0 +1,13 @@
+Assay,Samples,Positives,Status,Accuracy,Balanced_ACC,ROC_AUC
+AR,607,386,trained,0.8115,0.7882,0.8642
+AR-LBD,607,351,trained,0.7377,0.7222,0.7705
+ARE,607,607,single_class,,,
+ATAD5,607,607,single_class,,,
+AhR,607,607,single_class,,,
+ER,607,477,trained,0.877,0.8237,0.9241
+ER-LBD,607,502,trained,0.9098,0.8324,0.9672
+HSE,607,487,trained,0.8443,0.6514,0.8442
+MMP,607,457,trained,0.8115,0.7065,0.831
+PPAR-gamma,607,523,trained,0.8607,0.5986,0.7224
+aromatase,607,607,single_class,,,
+p53,607,483,trained,0.8607,0.7491,0.8225
